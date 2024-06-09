@@ -59,6 +59,43 @@ In summary, while traditional programming focuses on writing code to solve immed
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 Agile vs. Waterfall Models:
 
+The Software Development Life Cycle (SDLC) is a structured process used to develop, maintain, and replace software systems. The SDLC framework provides a step-by-step methodology for planning, creating, testing, deploying, and maintaining software systems. The various phases of the SDLC are:
+
+1. Planning Phase
+In this phase, the project's scope, goals, timelines, budget, and resources are defined. The project's feasibility is assessed, and a detailed project plan is created.
+
+2. Requirements Gathering Phase
+In this phase, the project's requirements are gathered from stakeholders, customers, and users. The requirements are documented, and a detailed analysis is performed to understand the project's needs.
+
+3. Design Phase
+In this phase, the project's design is created, including the system architecture, user interface, and system components. The design is reviewed, and any changes are incorporated.
+
+4. Implementation or Coding Phase
+In this phase, the project's design is implemented, and the code is written. The development team starts building the software system.
+
+5. Testing Phase
+In this phase, the developed software system is tested to ensure it meets the project's requirements. Various types of testing, such as unit testing, integration testing, and system testing, are performed.
+
+6. Deployment Phase
+In this phase, the tested software system is deployed to the production environment. The system is installed, configured, and made available to users.
+
+7. Maintenance Phase
+In this phase, the deployed software system is maintained, and any issues or defects are fixed. The system is updated, and new features are added as needed.
+
+Agile vs. Waterfall Models
+
+There are two popular SDLC models: Agile and Waterfall.
+
+Agile Model
+The Agile model is an iterative and incremental approach to software development. It emphasizes flexibility, customer satisfaction, and team collaboration. The Agile model is suitable for projects with changing requirements and involves continuous iteration and improvement.
+
+Waterfall Model
+The Waterfall model is a linear and sequential approach to software development. It follows a phased approach, where each phase is completed before moving on to the next one. The Waterfall model is suitable for projects with well-defined requirements and a fixed scope.
+
+In summary, the SDLC phases provide a structured approach to software development, while the Agile and Waterfall models offer different approaches to managing the SDLC process.
+
+
+
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
 Requirements Engineering:
 
